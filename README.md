@@ -22,12 +22,12 @@ This dataset provides details about countries, including their names and contine
 * `country`: Name of the country.
 * `continent`: Name of the continent that the country exists in.
 
-## 3. categories.csv
+### 3. categories.csv
 This dataset describes the business categories corresponding to the category codes.
 
 * `category_code`: Code for the category of the business.
 * `category`: Description of the business category.
-## 4. new_businesses.csv
+### 4. new_businesses.csv
 In this dataset, we've added information about the oldest businesses in countries where the data was missing.
 
 * `business`: Name of the business.
